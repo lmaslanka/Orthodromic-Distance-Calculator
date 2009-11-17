@@ -1,0 +1,9 @@
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\bin\Debug\OrthodromicDistanceCalculator.Tests.dll
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\bin\Debug\OrthodromicDistanceCalculator.Tests.pdb
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\obj\Debug\OrthodromicDistanceCalculator.Tests.dll
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\obj\Debug\OrthodromicDistanceCalculator.Tests.pdb
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\bin\Debug\OrthodromicDistanceCalculator.dll
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\bin\Debug\xunit.dll
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\bin\Debug\xunit.xml
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.Tests\bin\Debug\OrthodromicDistanceCalculator.pdb

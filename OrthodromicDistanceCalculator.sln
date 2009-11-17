@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrthodromicDistanceCalculator", "OrthodromicDistanceCalculator\OrthodromicDistanceCalculator.csproj", "{50099D84-4059-4E61-80EF-4A143DC8FF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrthodromicDistanceCalculator.Tests", "OrthodromicDistanceCalculator.Tests\OrthodromicDistanceCalculator.Tests.csproj", "{F95ABB77-A2AB-4B0A-82DD-6BE6975F9C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50099D84-4059-4E61-80EF-4A143DC8FF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50099D84-4059-4E61-80EF-4A143DC8FF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50099D84-4059-4E61-80EF-4A143DC8FF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50099D84-4059-4E61-80EF-4A143DC8FF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95ABB77-A2AB-4B0A-82DD-6BE6975F9C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95ABB77-A2AB-4B0A-82DD-6BE6975F9C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95ABB77-A2AB-4B0A-82DD-6BE6975F9C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95ABB77-A2AB-4B0A-82DD-6BE6975F9C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

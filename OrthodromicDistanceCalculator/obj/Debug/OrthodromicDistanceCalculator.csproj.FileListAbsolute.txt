@@ -1,0 +1,5 @@
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator\bin\Debug\OrthodromicDistanceCalculator.dll
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator\bin\Debug\OrthodromicDistanceCalculator.pdb
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator\obj\Debug\OrthodromicDistanceCalculator.dll
+C:\Projects\OrthodromicDistanceCalculator\OrthodromicDistanceCalculator\obj\Debug\OrthodromicDistanceCalculator.pdb
